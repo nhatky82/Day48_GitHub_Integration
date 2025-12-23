@@ -1,3 +1,3 @@
 echo "Xinchao ky"
 echo "kydepztrai"
-echo "kkhfkhdfgjidjibdjndibvdvnd"
+echo "kkhfkhdfg"
