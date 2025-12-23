@@ -1,3 +1,1 @@
-echo "Xinchao ky"
-echo "kydepztrai"
-echo "kkhfkhdfg"
+echo "Xinchao ky xinh dep "
