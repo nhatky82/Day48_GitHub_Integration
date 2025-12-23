@@ -16,5 +16,10 @@ pipeline {
                 sh './deploy.sh'
             }
         }
+        stage('Ky') {
+            steps {
+                sh './ky.sh'
+            }
+        }
     }
 }
